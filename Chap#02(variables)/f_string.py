@@ -1,0 +1,8 @@
+name=input("Enter your name:")
+print(f"my name is {name}")
+fruit=input("Enter yur fav fruit :")
+print(f"l like {fruit}")
+country=input("enter your country:")
+print(f"I am from {country}")
+food=input("enter your fav food:")
+print(f"i like {food}")
