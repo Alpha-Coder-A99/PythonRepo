@@ -5,7 +5,7 @@ b = False
 
 print("Logical Results:")
 
-# 1. AND (Dono ka True hona lazmi hai)
+# 1. AND (Dono ka  True hona lazmi hai)
 print(f"True AND False: {a and b}")   # Result: False
 
 # 2. OR (Koi ek bhi True ho toh kaam chal jayega)

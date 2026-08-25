@@ -1,9 +1,8 @@
 # Comparison Operators 
-# Ye hamesha True ya False mein jawab dete hain
+# Ye hamesha True  ya  False mein jawab dete hain
 
 x = 10
 y = 5
-
 print("Muqabla Shuru Karte Hain:")
 
 # 1. Equal to (==)

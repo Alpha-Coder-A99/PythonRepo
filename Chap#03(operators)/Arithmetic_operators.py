@@ -8,10 +8,10 @@ print(f"Multiplication (15 * 4): {a * b}")
 print(f"Division (15 / 4): {a / b}")         
 
 print("\nSpecial Calculations:")
-# Floor Division (Sirf poora numbr deta ha, point ke baad wala nahi)
+# Floor Division (Sirf poora number deta ha, point ke baad wala nahi)
 print(f"Floor Division (15 // 4): {a // b}") 
 
-# Modulus (Bacha hua hissa / Remainder)
+# Modulus (Bacha hua hissa ya  Remainder)
 print(f"Remainder (15 % 4): {a % b}")        
 
 # Exponentiation (Power)

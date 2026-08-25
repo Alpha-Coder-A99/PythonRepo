@@ -7,7 +7,7 @@ x += 5  # Iska matlab hai: x = x + 5
 print(f"5 jama karne ke baad: {x}")
 
 # 3. Subtract and Assign (-=)
-x -= 3  # Iska matlab hai: x = x - 3
+x -= 3  # Iska matlab hai: x = x - 3.,-->> x-=3
 print(f"3 nikalne ke baad: {x}")
 
 # 4. Multiply and Assign (*=)
