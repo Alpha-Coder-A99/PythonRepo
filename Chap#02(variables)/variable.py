@@ -6,7 +6,7 @@ print(b)
 
 
 #camel case
-sheryiansXNyc=12
+sheryiansXNyc=17
 print(sheryiansXNyc)
 
 #pascal case

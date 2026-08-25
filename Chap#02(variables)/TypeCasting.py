@@ -10,6 +10,7 @@ d=0.0
 e=""
 f="hello"
 
+
 print(bool(a))
 print(bool(b))
 print(bool(c))
