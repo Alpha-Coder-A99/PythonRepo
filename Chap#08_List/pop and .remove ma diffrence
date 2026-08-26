@@ -1,0 +1,5 @@
+.pop() aur .remove() mein ek bara farq hai. 
+.remove() naam se dhoondta tha
+lekin .pop() Index Number (location) se cheez nikaalta hai
+Aur sab se mazay ki baat?
+ye us nikaali hui cheez ko aap ke haath mein "Pakra" (return) bhi deta hai!
