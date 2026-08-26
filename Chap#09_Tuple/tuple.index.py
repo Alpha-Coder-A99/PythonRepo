@@ -15,6 +15,6 @@ nums = (10, 20, 30, 20, 40)
 print(nums.index(20)) # Output: 1 (Agla wala 20 ignore ho jayega)
 
 #Error case:
-#  Agar aap aisi cheez dhoondein jo tuple mein hai hi nahi, to Python ValueError dega.
+#  Agar aap aisi cheez dhoondein jo tuple me hai hi nahi, to Python ValueError dega.
 
 skills.index("Java") # ->>> Error! ya eror de ga
