@@ -1,0 +1,6 @@
+# 1.sorting in num
+# 2.Alphabetical Sort (Strings)
+
+# sort in two types 
+# ascending
+# decending
