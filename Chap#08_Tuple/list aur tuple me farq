@@ -1,0 +1,4 @@
+Sahi Selection:
+Ab aap ko Lists aur Tuples ka farq bilkul clear hai:
+Lists: Agar items ko change, add, ya remove karna ho (Flexibility).
+Tuples: Agar data ko safe aur fix rakhna ho (Security/Performance).
