@@ -1,4 +1,4 @@
-foods={"Apple","SAmosa","kheer","Cholapatora","Sandwatch","Golgappy"}
+foods={"Apple","SAmosa","kheer","Cholabatora","Sandwatch","Golgappy"}
 print(type(foods))
 print(foods)
 print(len(foods))
