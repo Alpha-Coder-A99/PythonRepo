@@ -1,4 +1,4 @@
-name=input("Hi ,I am Pyrobot!May I know your name: ")
+name=input("Hi ,I am Pyrobot! May I know your name: ")
 print("Hi",name,"!")
 quistions=["Which is you favourite_food :","Is you like to read :","Are you lerning python :"]
 for ques in quistions:
@@ -8,4 +8,4 @@ for ques in quistions:
     elif answer=="no":
         print("Oh! Thats okay😃")
     else:
-        print("Okay! so it is "+ answer )
+        print("Okay! so it is "+ answer)
