@@ -1,0 +1,4 @@
+# Unorderd -> no fixed index position
+# mutable -> elemnt can be aded and removed 
+# Unique ->  not  duplicates
+# Canot contains mutable values like dictionary or list
