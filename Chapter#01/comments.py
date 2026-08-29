@@ -1,7 +1,7 @@
 "Thier are two types of comments"
 "Coment are used to Exaplin code"
 "Commnt are notes you write for yourself , python completly ignore them they dont effect how program run"
-
+# print("hello world!")
 "1.single line commit"
 # This is single line comment
 
@@ -9,3 +9,5 @@
 """ This is
 multi-line
 comment """ 
+
+
