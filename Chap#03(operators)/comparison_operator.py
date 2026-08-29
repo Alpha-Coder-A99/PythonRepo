@@ -1,6 +1,6 @@
 # Comparison Operators 
 # Ye hamesha True  ya  False mein jawab dete hain
-
+# = ->assignment operator hai, ye value ko variable mein daalne ke liye use hota hai
 x = 10
 y = 5
 print("Muqabla Shuru Karte Hain:")

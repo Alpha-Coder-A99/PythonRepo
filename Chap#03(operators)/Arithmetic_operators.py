@@ -2,8 +2,8 @@
 a = 15
 b = 4
 print("Basic Calculations:")
-print(f"Addition (15 + 4): {a + b}")         
-print(f"Subtraction (15 - 4): {a - b}")      
+print(f"Addition(15 + 4): {a + b}")         
+print(f"Subtraction(15 - 4): {a - b}")      
 print(f"Multiplication (15 * 4): {a * b}")  
 print(f"Division (15 / 4): {a / b}")         
 

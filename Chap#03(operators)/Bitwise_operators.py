@@ -1,12 +1,14 @@
-"""Bitwise operation
+"""
+Bitwise operation
 Ye numbers ke saath nahi, balkay unke Bits (0 aur 1) ke saath khelte hain.
  AI aur Data Science mein ye fast calculations ke liye use hote hain.
- & (AND)
+& (AND)
 | (OR)
 ^ (XOR)
 ~ (NOT)
 << (Left Shift)
->> (Right Shift)"""
+>> (Right Shift)
+"""
 
 # Bitwise operators
 a = 10 # Binary: 1010

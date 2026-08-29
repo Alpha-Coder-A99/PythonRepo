@@ -11,8 +11,8 @@ print(f"True AND False: {a and b}")   # Result: False
 # 2. OR (Koi ek bhi True ho toh kaam chal jayega)
 print(f"True OR False: {a or b}")     # Result: True
 
-# 3. NOT (Ulta kar deta hai - True ko False, False ko True)
-print(f"NOT True: {not a}")           # Result: False
+# 3. NOT (Ulta kar deta hai -True ko False, False ko True)
+print(f"NOT True: {not a}")        # Result: False
 
 # Ek real example:
 age = 18
