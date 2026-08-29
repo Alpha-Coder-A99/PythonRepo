@@ -1,4 +1,4 @@
-#Input radius from user and calculate  area of circle
+#Input radius from user and calculate  Area of circle
 radius = float(input("Enter radius of circle: "))
 area = 3.14159 * (radius ** 2)
 print(f"The area of circle is: {area}")
