@@ -3,4 +3,4 @@ list=["apple","Mango","ornge","banana"]#mutable
 print(list)
 tuple=("apple","banana","cheery")#immutable
 print(tuple)
-print(range(5))
+print(range(5))#immutable

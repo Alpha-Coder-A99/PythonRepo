@@ -2,6 +2,7 @@
 dict={
     "name":"Alpha-coder",
     "age":17,
-    "hobby":"cooking&coding"
+    "hobby":"cooking&coding",
+    "dream":"I want to became Ai Engineer and I want to learn python programming language"
 }
 print(dict)
