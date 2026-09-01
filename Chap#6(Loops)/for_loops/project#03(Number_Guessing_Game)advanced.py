@@ -5,7 +5,7 @@ tries=0
 
 while True:
     tries+=1
-    human=int(input(f"hye!{name}!Guess your number between 1 - 100:-"))
+    human=int(input(f"hye{name}!Guess your number between 1 - 100:-"))
 
     if human==computer:
         print(f"Congratualation!🎉{name}✨ you have win in {tries} tries!🎀")

@@ -1,4 +1,4 @@
-# pass	😶 NOTHING	Sirf jagah pur (fill) karta hai taake error na aaye.
+# pass 😶 NOTHING	Sirf jagah pur (fill) karta hai taake error na aaye.
 for i in range(1, 11):
     if i == 5:
         pass  # Kuch nahi karega, bas error se bachaye ga!

@@ -7,7 +7,7 @@ while win==False:
     guess=int(input("Guess one number from 1 to 20"))
     attempts+=1
     if guess==secret_number:
-        print(f"Congratualation Areeba! 🎉 you won in {attempts} attempts!")
+        print(f"Congratualation Areeba 🎉! you won in {attempts} attempts!")
     elif guess < secret_number:
         print("Guess up from this number")
     else:

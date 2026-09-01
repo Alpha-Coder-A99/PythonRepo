@@ -3,4 +3,4 @@ num=1
 while num<=10:
     print(num)
     num +=1
-print("Loop ended")
+print("Loop is ended")

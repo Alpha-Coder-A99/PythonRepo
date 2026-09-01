@@ -7,4 +7,4 @@ while n>=1:
     sum_val+=n
     n-=1
 print("sum:",sum_val)
-print("n=",n)
+print("n=", n)

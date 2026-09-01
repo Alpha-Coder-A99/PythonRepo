@@ -2,4 +2,4 @@
 num=2
 while num <=50:
     print(num)
-    num+=1
+    num+= 1

@@ -4,4 +4,4 @@ while i <= 2:
     while j <= 2:
         print(f"i={i}, j={j}")
         j += 1
-    i += 1 
+    i +=1
