@@ -9,3 +9,7 @@ if adult=="yes":
 age=18
 if age >=18:
     print("True")  
+
+mood="happy"
+if mood=="happy":
+    print("I am happy")

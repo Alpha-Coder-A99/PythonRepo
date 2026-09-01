@@ -46,4 +46,4 @@ match operator:
         else:
             print("Error! Zero se divide nahi ho sakta. 🚫")
     case _:
-        print("Ghalat operator dala hai! Sirf +, -, *, / use karein.")
+        print("Ghalat operator dala hai! Sirf +, -, /, * use karein.") 

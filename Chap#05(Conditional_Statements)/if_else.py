@@ -13,3 +13,13 @@ if Temperature >= 30:
     print("It is too hot 🥵")
 elif Temperature <= 15:
     print("It is too cold 🥶") 
+
+
+
+mood=input("Enter your mood:")
+if mood=="happy":
+    print("I am happy")
+elif mood=="sad":
+    print("I am sad")
+else:
+    print("I am confused")

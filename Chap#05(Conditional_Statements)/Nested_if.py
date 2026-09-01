@@ -4,7 +4,7 @@ if salan_ready == "yes": # Pehla Darwaza 🚪
     bhook = int(input("Bhook kitni hai? (1-100): "))
     
     if bhook > 70: # Dusra Darwaza (Nested) 🚪
-        print("Mister Chuhender: Jaldi khao, bohot bhook hai! 🥘🐭")
+        print("Mister Chuhender:Jaldi khao, bhot bhook lagi hai! 🥘🐭")
     else:
         print("Mister Chuhender: Thora thair kar khate hain. 😊")
         

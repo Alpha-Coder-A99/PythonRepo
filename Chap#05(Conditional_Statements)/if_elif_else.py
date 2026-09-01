@@ -57,9 +57,9 @@ elif marks >= 80:
 elif marks >= 70:
     print("You got C grade 📈")
 elif marks >= 65:
-    print("You got D grade 😐")
+    print("You got D grade 🙂")
 else:
-    print("You are fail, try next time with new motivation. Be consistent! 💪")
+    print("You are fail 💀 try next time with new motivation. Be consistent! 💪")
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: ")) 
