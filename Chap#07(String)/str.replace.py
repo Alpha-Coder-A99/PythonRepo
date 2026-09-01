@@ -10,5 +10,5 @@ print(text.replace("apple", "mango"))
 
 dunya = "Log nafrat phela rahe hain"
 alpha_world = dunya.replace("nafrat", "MUHABBAT")
-print(alpha_world) 
+print(f"This is my {alpha_world} ") 
 # Output: Log MUHABBAT phela rahe hain

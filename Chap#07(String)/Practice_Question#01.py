@@ -1,6 +1,6 @@
 # Write a program that take a name and prints:
-# first charactrer
-# Last charactrer
+# first character
+# Last character
 # length of name
 name="Areeba"
 print(name[0])

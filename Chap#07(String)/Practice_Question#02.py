@@ -1,4 +1,4 @@
-# Write a program that takes my fav fruit "Mango" vaiable and pints:
+# Write a program that takes my fav_fruit "Mango" vaiable and pints:
 # The middle 3 characters
 # The last 2 characters
 fav_foods="Mango"

@@ -1,4 +1,4 @@
-msg = "Alpha Coder 99"
+msg = "Alpha Coder99"
 
 # 1. 'C' dhoondo kahan hai
 print(msg.find("C"))    # Output: 6 (A-0, l-1, p-2, h-3, a-4, space-5, C-6)

@@ -1,4 +1,4 @@
-a="hello"
+a="hello!"
 ch=a[2]
 print(ch)
 b="world"

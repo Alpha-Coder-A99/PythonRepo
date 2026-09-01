@@ -7,7 +7,7 @@ print(tukray)
 # Output: ['Alpha', 'Coder', 'Python', 'AI']
 
 fruits = "apple,mango,banana"
-list_of_fruits = fruits.split(",") # Comma se todo!
+list_of_fruits = fruits.split (",") # Comma se todo!
 
 print(list_of_fruits)
 # Output: ['apple', 'mango', 'banana']

@@ -1,4 +1,4 @@
-# Write a program that inputs your fav food name and pints:
+# Write a program that inputs your fav_food name and pints:
 # The middle 3 characters
 # The last 2 characters
 fav_foods=input("Enter your favourite food:")

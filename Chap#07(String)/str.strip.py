@@ -1,6 +1,6 @@
-naam = "   Alpha Coder   "
+naam = "  Alpha Coder   "
 
-print("Pehle wala:", naam, "|")
+print("Pehle wala:",naam, "|")
 # Output:    Alpha Coder |  
 
 clean_naam = naam.strip()

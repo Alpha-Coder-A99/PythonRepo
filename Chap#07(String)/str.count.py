@@ -1,4 +1,4 @@
-shauq = "Python is great, Python is fast, Python is AI"
+shauq = "Python is great, Python is fast, Python help learn AI"
 
 # Ginti karo 'Python' kitni baar aaya?
 print(shauq.count("Python")) 

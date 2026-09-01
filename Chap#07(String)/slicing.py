@@ -1,4 +1,4 @@
-str="Alpha Coder"
+str= "Alpha Coder"
 halfstr=str[0:5]
 trailfirststr=str[:5]
 laststr=str[6:11]

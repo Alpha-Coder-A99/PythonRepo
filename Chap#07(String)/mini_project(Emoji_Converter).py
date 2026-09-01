@@ -19,7 +19,7 @@ emojis = {
 output = ""
 for word in words:
     # Agar word emoji map min hi toh emoji lagao, warna wahi word rehne do
-    output += emojis.get(word, word) + " "
+    output += emojis.get(word,word) + " "
 
 # Step 5: Final reult dikhana
 print(f"Alpha Converter: {output}")
