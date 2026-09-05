@@ -2,6 +2,7 @@
 Create a dictionary of 3 students with their marks in 3 subjects, "
 then calculate total marks for each student.
 """
+ 
 Students = {
     "Std1": {"name": "Fatima", "marks": {"Math": 98, "physics": 97, "Computer": 95}},
     "Std2": {"name": "Mariyam", "marks": {"Math": 96, "physics": 99, "Computer": 90}},

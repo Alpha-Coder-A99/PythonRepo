@@ -6,6 +6,7 @@ profile={
     "Goal":"Ai devolpor"
 
 }
+
 print(profile.keys()) # prints all keys 
 print(profile.values())#prints all values
 print(profile.items())# prints all items in key:pair format

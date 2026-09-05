@@ -6,5 +6,6 @@ profile={
     "Goal":"Ai devolpor"
 
 }
+
 profile.pop("Goal")
 print(profile)

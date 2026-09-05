@@ -7,6 +7,7 @@ profile={
     "Goal":"Ai devolpor"
 
 }
+
 profile["Skills"]= "python.Ai,Cooking"
 print(profile)
 #adding new key value pair

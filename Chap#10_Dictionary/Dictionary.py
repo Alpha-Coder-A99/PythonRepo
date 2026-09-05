@@ -6,6 +6,7 @@ profile={
     "Goal":"Ai devolpor"
 
 }
+
 print(type(profile))
 print(profile)
 print(profile["name"])
