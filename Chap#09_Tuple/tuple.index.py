@@ -1,5 +1,6 @@
 # Ye method aapko batata hai ke koi specific value tuple mein kis position (index) par mojood hai.
 # my Tuple
+
 skills = ("Python", "Freelancing", "AI", "Cooking")
 
 # AI ka index maloom karte hain

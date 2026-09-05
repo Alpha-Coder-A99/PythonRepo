@@ -1,5 +1,6 @@
 """ .count() Method
 Ye method ginta (count karta) hai ke aik specific item tuple mein kitni dafa aaya hai."""
+
 my_targets = ("Python", "AI", "Fitness", "Python", "Deen", "Python")
 repeat_count = my_targets.count("Python")
 print(repeat_count)
