@@ -16,3 +16,11 @@ routine.insert(0, "sleep")
 routine.insert(2, "Exercise")
 
 print("my Perfect Routine:", routine)
+
+goals=["Learn Python", "Learn RAG", "Learn LangChain", "Learn LLMs","Learn Prompt Engineering"]
+print(goals)
+goals.insert(4, "Learn Pandas")
+goals.insert(5, "Learn Numpy")
+goals.insert(6, "Learn Web Scraping")
+goals.insert(7, "Learn Data Visualization")
+print("My Learning Goals:", goals)

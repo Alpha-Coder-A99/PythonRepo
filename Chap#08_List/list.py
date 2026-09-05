@@ -1,3 +1,3 @@
 #List in python
-fruits=["Mango","Apple","Banana","Orange","Strawberry",8,5.0]
-print(len(fruits))
+fruits=["Mango","Apple","Banana","Orange","Strawberry","Cherry",8,5.0]
+print(len(fruits)) 

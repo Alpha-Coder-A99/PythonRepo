@@ -4,3 +4,8 @@ scores = [5, 12, 9, 2]
 scores.sort(reverse=True)
 
 print(scores) 
+
+
+Alphabet=["A","B","D","C","E"]
+Alphabet.sort(reverse=True)
+print(Alphabet)

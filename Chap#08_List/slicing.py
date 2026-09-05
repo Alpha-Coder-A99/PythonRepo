@@ -1,4 +1,4 @@
-# Areeba's Study Schedule List
+# Alpha's Study Schedule List
 hours = ["9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm"]
 
 # 1. Basic Slice (11am se 2pm tak)

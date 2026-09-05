@@ -25,7 +25,7 @@ print("Baqi items (A-Z sorted):", grocery_list)
 # 5. Length check karna
 print("Ab sirf", len(grocery_list), "items baqi hain.")
 # 1. 4th item mangna
-item4 = input("Chotha item batayein: ")
+item4 = input("Chotha item  batayein: ")
 grocery_list.append(item4)
 
 # 2. Reverse karna

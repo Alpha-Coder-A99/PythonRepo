@@ -4,3 +4,6 @@ my_goals = ["Python", "Freelancing", "Tafseer", "Cooking", "AI"]
 total_tasks = len(my_goals)
 
 print(f"I have {total_tasks} goals in my life")
+
+str="Alpha"
+print(len(str))

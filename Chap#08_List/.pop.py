@@ -7,3 +7,8 @@ print(fruits)
 removed_item=fruits.pop(1)
 print(removed_item)
 print(fruits)
+
+
+removed_work=["cooking", "cleaning", "shopping","gardening"]
+removed_work.pop(0)
+print(removed_work)

@@ -2,5 +2,5 @@
 # 2.Alphabetical Sort (Strings)
 
 # sort in two types 
-# ascending
-# decending
+# 1.ascending
+# 2. decending
