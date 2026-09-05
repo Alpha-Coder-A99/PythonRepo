@@ -1,4 +1,5 @@
 # Take a list and convert it into set
+
 food_list=["Samosa","Sandwicth","GolGappy","Chanachat","Fruitchat","Samosa","Fruitchat"]
 print(len(food_list))
 print(type(food_list))
