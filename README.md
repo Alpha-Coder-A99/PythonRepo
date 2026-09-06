@@ -17,9 +17,9 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Project#01(Rent calculator)
 ✅Project#02(Python py bot ) 
 ✅Project#03(python Shape generator)
-✅Project#04(Personal Fianance app_Expenses Tracker) 
+✅Project#04(Personal Fianance app_Expenses Tracker) ✅Project#05(Restaurant management system)
 
-✅Project#05(Restaurant management system)
+
 ✅Project#06(Contact book app) ✅Project#07(Rock_Paper_Scissor game) ✅Chap#12:Functions
 ✅Chap#13:Recursion 
 ✅Project#08(Percentage_Calculator)
@@ -44,4 +44,4 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ->>EduMetrics Pro is a foundational data analytics project. It uses NumPy to analyze student grades, track attendance, and extract performance insights without external dependencies like Pandas.✅Chap#29(Pandas)✅Project#28(E-Commerce Customer Behavior & CohortAnalytics Engine (DataTrend Pro))✅Project#29(Smart Algorithmic Trading & Portfolio Analytics Engine (CryptoVest Pro))✅Chap#30(Data_Viualization)✅Project#30(Comprehensive Covid-19 Global Health Insights app)
 ✅Project#31(E-Commerce Customer Behavior & CohortAnalytics Engine)
 ✅Chap#31(Web_scraping)✅project#32(Automated Real-Time E-Commerce Price Intelligence & Tracker Bot)✅Chap#32(stramlitGUI)✅Project#33(TO_DO_App(Advabced)) ✅Project#34( AI-Powered Business Intelligence & Predictive Analytics Tool)✅Chap#33(API_Handling) ✅Chap#34(DataBase)
-Expene tracker Pro ,
+Expene tracker Pro ,REsturant Mangemnt app pro
