@@ -10,6 +10,7 @@ menu = {
 }
 
 print("=== Welcome to our Restaurant 🤗🍜😋 ===")
+
 # Menu ko print karne ka Best way
 print("Pizza: 700/- \nBurger: 200/- \nSalad: 100/-\nMix_Sabzi: 150/-\nBread: 30/-\nCoffee: 70/-\nAloo Paratha: 50/-\nIce Cream: 100/-")
 
