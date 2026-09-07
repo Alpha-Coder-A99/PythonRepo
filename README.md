@@ -19,6 +19,7 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Project#03(python Shape generator)
 ✅Project#04(Personal Fianance app_Expenses Tracker) ✅Project#05(Restaurant management system)
 ✅Project#06(Contact book app) ✅Project#07(Rock_Paper_Scissor game)
+✅Project#
 
 ✅Chap#12:Functions
 ✅Chap#13:Recursion 
