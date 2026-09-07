@@ -7,3 +7,5 @@ print("\N{Face with Tears of Joy} ")
 print("\N{Party Popper} ")
 print("\N{Fire} ")
 print("\N{Face with Medical Mask} ")
+print("\N{Face with Monocle} ")
+
