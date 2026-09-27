@@ -49,3 +49,10 @@ help()
 # Invoke the built-in help system
 id()
 # Return the identity of an object
+dir()
+# Return a list of valid attributes for an object
+pow()
+# pow(base, exponent)
+# Return the base raised to the power of the exponent
+abs()
+# Return the absolute value of a number
