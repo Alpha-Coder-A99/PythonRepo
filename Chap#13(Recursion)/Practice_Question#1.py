@@ -1,4 +1,5 @@
 #Write a recurive function to calculate the sum of first n natural number
+
 def Calc_sum(n):
     if n==0:
         return 0
