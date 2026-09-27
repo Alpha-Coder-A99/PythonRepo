@@ -25,8 +25,8 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#12:Functions
 ✅Chap#13:Recursion 
 ✅Project#08(Percentage_Calculator)
-
 ✅Project#09(Personal Chat assigstent_Ai buddy)
+
 ✅Project#10(To -Do -app) ✅Project#11(Student Grade System)
 ✅Chap#15(Expection Handling)
 ✅Chap#19(Generators)✅Chap#18(Code Organization)
