@@ -30,6 +30,7 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Project#15(Student Grade System)
 ✅Chap#15(Expection Handling)
 ✅Chap#14:(File Handling) 
+✅Project#16(CRUD_operation)
 
 
 
@@ -39,7 +40,7 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#23(Further_Concepts_of_OOPs) ✅Chap#24(Decorators)
 
 
-✅Chap#14:(File Handling) 
+
 ✅Chap#16(Json_File_Handling) ✅Chap#17(CSV_File_Handling)
  
 ✅Chap#25(Tkinter_LIbaray) ✅Chap#26(psutil_module)
