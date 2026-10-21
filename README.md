@@ -31,13 +31,14 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#15(Expection Handling)
 ✅Chap#14:(File Handling) 
 ✅Project#16(CRUD_operation)
+✅Chap#16(OOPs)
+
+✅Chap#00(Types_of_Attributes&methods)
 
 
-
-
+✅Chap#22(4_pillors_of_OOPs) ✅Chap#24(Decorators)
 ✅Chap#19(Generators)✅Chap#18(Code Organization)
-✅Chap#20(OOPs) ✅Chap#21(OOps_Methods) ✅Chap#22(4_pillors_of_OOPs)
-✅Chap#23(Further_Concepts_of_OOPs) ✅Chap#24(Decorators)
+
 
 
 
@@ -52,7 +53,10 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Project#23(ExpenseSplitter) ✅Project#24(ExpenseSplitterPRO)
 ✅Project#25(Habit_Trackerwithstreaks.py) 
 
-✅Chap#27(Os_module)✅Project#26(File_Organizer)
+✅Chap#27(Os_module)✅Project#26(File_Organizer)✅Chap#33requet module
+✅Chap#33(API_Handling) , To-Do app
+✅Chap#32(stramlitGUI)✅Project#33(TO_DO_App(Advabced))
+
 
 ✅Chap#28(Numpy_Library)✅Project#27((EduMetrics Pro))
 ->>EduMetrics Pro is a foundational data analytics project. It uses NumPy to analyze student grades, track attendance, and extract performance insights without external dependencies like Pandas.
@@ -66,6 +70,6 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 
 ✅Chap#32(stramlitGUI)✅Project#33(TO_DO_App(Advabced)) ✅Project#34( AI-Powered Business Intelligence & Predictive Analytics Tool)
 
-✅Chap#33(API_Handling) 
+
 ✅Chap#34(DataBase)
 Expene tracker Pro ,Resturant Mangemnt app pro
