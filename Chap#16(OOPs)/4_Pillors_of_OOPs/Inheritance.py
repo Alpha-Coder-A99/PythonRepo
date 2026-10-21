@@ -1,0 +1,1 @@
+#when one class is derived/inherit some features from another class then it is called inheritance

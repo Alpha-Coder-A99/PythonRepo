@@ -1,0 +1,5 @@
+# class
+#class is blue printfor creating  any object
+class ma 2 type ki chezien store ho skati hein
+1.data(attributes)
+2.methods
