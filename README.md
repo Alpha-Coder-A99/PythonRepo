@@ -32,11 +32,10 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#14:(File Handling) 
 ✅Project#16(CRUD_operation)
 ✅Chap#16(OOPs)
+✅Chap#17(Types_of_Attributes&methods)
 
-✅Chap#00(Types_of_Attributes&methods)
 
-
-✅Chap#22(4_pillors_of_OOPs) ✅Chap#24(Decorators)
+✅Chap#18(4_pillors_of_OOPs) ✅Chap#24(Decorators)
 ✅Chap#19(Generators)✅Chap#18(Code Organization)
 
 
