@@ -66,9 +66,7 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#30(Data_Viualization)✅Project#30(Comprehensive Covid-19 Global Health Insights app)
 ✅Project#31(E-Commerce Customer Behavior & CohortAnalytics Engine)
 
-✅Chap#31(Web_scraping)✅project#32(Automated Real-Time E-Commerce Price Intelligence & Tracker Bot)
-
-✅Chap#32(stramlitGUI)✅Project#33(TO_DO_App(Advabced)) ✅Project#34( AI-Powered Business Intelligence & Predictive Analytics Tool)
+ ✅Project#34( AI-Powered Business Intelligence & Predictive Analytics Tool)
 
 
 ✅Chap#34(DataBase)
