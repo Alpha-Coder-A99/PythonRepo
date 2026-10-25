@@ -35,13 +35,18 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#17(Types_of_Attributes&methods)
 
 
-✅Chap#18(4_pillors_of_OOPs) ✅Chap#24(Decorators)
-✅Chap#19(Generators)✅Chap#18(Code Organization)
+✅Chap#18(4_pillors_of_OOPs)
+
+ ✅Chap#19(Decorators)
+✅Chap#20(Further_Concepts_of_OOPs)
+✅Chap#21(Generators)
+✅Chap#22(Code Organization)
 
 
 
 
-✅Chap#16(Json_File_Handling) ✅Chap#17(CSV_File_Handling)
+
+✅Chap#23(Json_File_Handling) ✅Chap#24(CSV_File_Handling)
  
 ✅Chap#25(Tkinter_LIbaray) ✅Chap#26(psutil_module)
 ✅Project#12(Quiz_Game) ✅Project#13(Number_Guessing_Game)
