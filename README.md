@@ -40,6 +40,7 @@ I'm Alpha Coder 99, a 17-year-old self-taught Python developer from Pakistan. I'
 ✅Chap#20(Further_Concepts_of_OOPs)
 ✅Chap#21(Generators)
 ✅Chap#22(Code Organization)
+iterators(map,filter,reduce)
 
 
 
